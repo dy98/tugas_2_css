@@ -1,0 +1,32 @@
+/* 3 */
+h1 {
+    text-transform: capitalize;
+}
+
+/* 4 */
+.p_pertama {
+    text-align: justify;
+}
+
+/* 5 */
+.p_kedua {
+    text-decoration: underline;
+}
+
+/* 6 */
+* {
+    color: white;
+    background-color: green;
+}
+
+/* 7 */
+.p_tiga, .p_empat {
+    text-align: center;
+}
+
+/* 8 */
+.p_lima {
+    text-decoration: line-through;
+}
+
+/* 9 */
